@@ -59,7 +59,7 @@ TOADDR=recipient_email@gmail.com
 4. Run the script:
 
 ```bash
-python send_email.py
+python mailingclient.py
 ```
 
 ### Notes:
